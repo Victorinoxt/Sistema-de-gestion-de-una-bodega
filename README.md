@@ -1,2 +1,2 @@
-# Sistema-de-gesti-n-de-una-bodega
+# Sistema-de-gestio-n-de-una-bodega
 system quincalleria
